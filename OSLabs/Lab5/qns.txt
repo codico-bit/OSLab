@@ -1,0 +1,2 @@
+Write a program to simulate MFT memory management in C
+Write a program to simulate MVT memory management in C

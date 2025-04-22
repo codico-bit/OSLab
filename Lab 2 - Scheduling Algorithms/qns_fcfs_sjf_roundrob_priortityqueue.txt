@@ -1,0 +1,8 @@
+Write a program to simulate the followig non-preemetive CPU scheduling algorithm to find
+the turnaround time and waiting time for the below program
+
+
+1) FCFS
+2) SJF
+3) round robin
+4) priority

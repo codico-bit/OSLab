@@ -1,0 +1,2 @@
+Write a program to simulate banker's algorithm for the purpose of deadlock avoidance. 
+Write a program to implement an algoritm for deadlock detection. 

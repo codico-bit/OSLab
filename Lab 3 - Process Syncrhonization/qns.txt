@@ -1,0 +1,20 @@
+
+Classical Synchronization Problems using Semaphores
+1) Producer Consumer Problem
+2) Readers and Writers Problem
+3) Dining Philosphers Problem
+
+Log, moniter, semaphores are 3 Synchronization
+
+
+Binary Semaphore
+Counting Semaphore
+
+
+
+Semaphore variables
+mutex full empty
+
+Semaphore operatoin
+wait
+signal
